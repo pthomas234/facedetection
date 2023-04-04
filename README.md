@@ -5,7 +5,6 @@ Detecting faces from webcam:
 The first section,connect the webcam to Colab and capture an image of our face, then use Haar cascade algorithms to draw a box around the detected faces. 
 
 Source:  
-
 Haar-cascade: https://medium.com/analytics-vidhya/haar-cascades-explained-38210e57970d 
 
 
@@ -17,7 +16,6 @@ Run a loop to detect the face box in the images from the Wiki dataset and evalua
 
 
 Sources: 
-
 Image dataset: https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
 
 Measuring the accuracy of bounding box image: https://blog.mturk.com/tutorial-measuring-the-accuracy-of-bounding-box-image-annotations-from-mturk-ad3dfcdf8aa0
